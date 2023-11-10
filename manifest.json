@@ -1,16 +1,16 @@
 {
-  "id": "dev.replugged.PluginTemplate",
-  "name": "Plugin Template",
-  "description": "A plugin template",
+  "id": "dev.WolfPlugs.UserPFP",
+  "name": "UserPFP",
+  "description": "A plugin to add custom user PFP",
   "author": {
-    "name": "replugged",
-    "discordID": "1000992611840049192",
-    "github": "replugged-org"
+    "name": "wolfieeeeeeee",
+    "discordID": "347096063569559553",
+    "github": "Wolfkid200444"
   },
   "version": "1.0.0",
   "updater": {
     "type": "github",
-    "id": "replugged-org/plugin-template"
+    "id": "WolfPlugs/UserPFP"
   },
   "license": "MIT",
   "type": "replugged-plugin",
