@@ -9,12 +9,12 @@
   },
   "version": "1.0.0",
   "updater": {
-    "type": "github",
-    "id": "WolfPlugs/UserPFP"
+    "type": "store",
+    "id": "dev.WolfPlugs.UserPFP"
   },
   "license": "MIT",
   "type": "replugged-plugin",
   "renderer": "src/index.ts",
-  "source": "https://github.com/replugged-org/plugin-template",
-  "image": ["https://i.imgur.com/14CNs3a.png?CHANGE-THIS-URL"]
+  "source": "https://github.com/WolfPlugs/UserPFP",
+  "image": ["https://cdn.obamabot.me/ZS0gbjmNGg.gif"]
 }
