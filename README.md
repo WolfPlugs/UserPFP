@@ -7,3 +7,7 @@ This plugin is simply a port to replugged all of the code use or parts of it ori
 
 - [UserPFP Vendetta](https://github.com/nexpid/VendettaPlugins/blob/main/plugins/usrpfp)
 - [userPFP Vencord](https://github.com/Vendicated/Vencord/blob/bfc390c0a5ba0f2e6fc74a81095487f71587a91f/src/plugins/usrpfp/index.tsx)
+
+# How to Use
+
+Go to this [Link](https://github.com/UserPFP/UserPFP#how-to-request-a-profile-picture-pfp) and follow the instructions
